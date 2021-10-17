@@ -20,6 +20,7 @@ dependencies:
   - pip
   - graph-tool
   - cytoolz
+  - squarify
   - pip:
     - bezier
     - scattertext
